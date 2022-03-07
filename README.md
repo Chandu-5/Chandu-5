@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandu K
+- 👋 Hi There!, I’m Chandu K
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Flutter App Development 
 - 💞️ I’m looking to collaborate on ...
